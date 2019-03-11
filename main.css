@@ -2,6 +2,7 @@ body, header {
     margin: 0;
     padding: 0;
 }
+
 .fullscreen-bg {
     overflow: hidden;
     z-index: -100;
